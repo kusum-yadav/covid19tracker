@@ -1,0 +1,16 @@
+git init
+git config --global user.name "Kusum Yadav"
+git config --global user.email "kusumyadavkota@gmail.com"
+git config --list
+git help commit
+git log 
+ssh-keygen
+
+git remote add origin git@github.com:kusum0701/covid19tracker.git
+
+git stats	
+git add .
+git commit -m "Message"
+git push -u origin master
+
+
